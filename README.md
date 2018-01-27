@@ -1,1 +1,2 @@
-# DST_Scala
+# Scala-Read-Guide
+Documents for Scala
